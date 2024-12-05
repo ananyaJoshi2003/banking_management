@@ -25,18 +25,18 @@ This project is a simple banking system implemented in Python. It allows users t
 2. Install the required packages:
   pip install -r requirements.txt
 
-**Usage**
+## Usage
   **Run the application:**
       1. python main.py
       2. Follow the on-screen instructions to create an account or log in.
 
-**Contributing**
+## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
 
-**License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Acknowledgments**
+## Acknowledgments
 Thanks to the contributors and the open-source community for their support and resources.
 
 **Feel free to modify the content to better fit your project's specifics, such as adding more detailed instructions or additional features.# banking_management**
