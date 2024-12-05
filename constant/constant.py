@@ -1,0 +1,4 @@
+SIGNUP = 1
+LOGIN = 2
+CRADIT = 3
+EXIT = 4
